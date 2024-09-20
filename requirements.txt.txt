@@ -1,0 +1,12 @@
+requirements:
+
+1.Flask
+
+2.paho-mqtt
+
+
+Explanation:
+
+Flask: A lightweight Python web framework used for building the HTTP server that provides an API endpoint for accessing sensor data.
+
+paho-mqtt: A Python library for communicating with MQTT brokers, enabling the publisher to send temperature data and the subscriber to receive it.
